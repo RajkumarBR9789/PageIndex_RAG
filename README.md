@@ -12,9 +12,8 @@
 
 ## 🎥 2. Demo
 
-https://github.com/RajkumarBR9789/PageIndex_RAG/assets/ASSET_ID/VIDEO_ID.mp4
+![Demo Video](assets/PageIndex-demo.mp4)
 
-> **Note**: *Replace the URL above with your uploaded GitHub release/asset video MP4 link.*  
 > **Video Walkthrough**: Demonstrates uploading a 158-page 3GPP specification PDF (`ts_124301`), building the hierarchical PageIndex tree, querying complex authentication procedures, viewing exact clause/page citations, and inspecting the raw page text context.
 
 ---
