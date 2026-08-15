@@ -12,7 +12,11 @@
 
 ## 🎥 2. Demo
 
-![Demo Video](assets/PageIndex-demo.mp4)
+<video src="https://raw.githubusercontent.com/RajkumarBR9789/PageIndex_RAG/main/assets/PageIndex-demo.mp4" controls="controls" width="100%">
+  Your browser does not support the video tag. <a href="https://raw.githubusercontent.com/RajkumarBR9789/PageIndex_RAG/main/assets/PageIndex-demo.mp4">Click here to download/watch the video</a>.
+</video>
+
+📌 **[▶️ Click here to watch or download the PageIndex Demo Video (MP4)](https://raw.githubusercontent.com/RajkumarBR9789/PageIndex_RAG/main/assets/PageIndex-demo.mp4)**
 
 > **Video Walkthrough**: Demonstrates uploading a 158-page 3GPP specification PDF (`ts_124301`), building the hierarchical PageIndex tree, querying complex authentication procedures, viewing exact clause/page citations, and inspecting the raw page text context.
 
