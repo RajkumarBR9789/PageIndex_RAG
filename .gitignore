@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.py[cod]
+.venv/
+.pageindex_uploads/
+uploads/
+*.pdf
+cached_tree_jsons/
+*.tree.json
